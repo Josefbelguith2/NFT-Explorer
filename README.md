@@ -3,7 +3,7 @@
 Clone the repository using git:
 
 ```bash
-git clone 
+git clone https://github.com/Josefbelguith2/NFT-Explorer
 ```
 
 Once the repository is cloned, cd into the repository directory:
